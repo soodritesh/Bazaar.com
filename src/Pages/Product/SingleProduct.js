@@ -99,7 +99,6 @@ function SingleProduct() {
       </div>
     );
   }
-
   return (
     <>
       <div className="singleProduct">
