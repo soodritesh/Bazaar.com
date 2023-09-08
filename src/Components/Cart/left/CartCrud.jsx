@@ -93,7 +93,7 @@
 //                       }}
 //                       disabled={el.quantity === 1}
 //                     >
-//                       -
+
 //                     </Button>
 //                     <Text fontWeight={"bold"}>{el.quantity}</Text>
 //                     <Button
