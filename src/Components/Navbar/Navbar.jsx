@@ -10,7 +10,6 @@ const Navbar = () => {
   return (
     <Box className={'navcontainer'}>
  <OfferBar/>
-
       <Flex className={'navmenu'} >
 
         <Box><Logo/></Box>
